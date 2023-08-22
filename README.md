@@ -6,5 +6,5 @@ The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Team](https://github.com/sinafarzan/My_Wiki_Template/wiki/Team_Structure) | team members and their roles |
+| [Team](https://github.com/sinafarzan/My_Wiki_Template/wiki/Team_Structure) | Team Members and Their Roles |
 | [Responsibles](https://github.com/sinafarzan/My_Wiki_Template/wiki/Responsibles) | Tasks of Responsbiles |
