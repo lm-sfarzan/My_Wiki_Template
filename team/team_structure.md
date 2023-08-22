@@ -1,6 +1,6 @@
 # [Project] Team Structure
 
-**<p align="center">Total Team Size: [X]</p>**
+**Total Team Size: [X]**
 
 | Role               | Name   | Email   |
 | ------------------ | ------ | ------- |
