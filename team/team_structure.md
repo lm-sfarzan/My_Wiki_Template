@@ -5,9 +5,9 @@
 | Role               | Name   | Email   |
 | ------------------ | ------ | ------- |
 | Delivery Manager   | No Name |  |
-| Software Architect | Axel Druschel | A.Druschel@meyer-logistik.com |
-| Product Owner      | Oliver Schram | O.Schram@meyer-logistik.com] |
-| Scrum Master       | Christopher Steyer | C.Steyer@meyer-logistik.com |
-| Developer          | Olesya Geds | O.Geds@meyer-logistik.com |
-| Developer          | Sina Farzan | S.Farzan@meyer-logistik.com |
-| Tester             | Alex Bellmann | A.Bellmann@meyer-logistik.com |
+| Software Architect | A.D. | A.D.@ml.com |
+| Product Owner      | O.S. | O.S@ml.com] |
+| Scrum Master       | C.S. | C.S@ml.com |
+| Developer          | O.G. | O.G@ml.com |
+| Developer          | S.F. | S.F@ml.com |
+| Tester             | A.B. | A.B@ml.com |
