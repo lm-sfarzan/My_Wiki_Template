@@ -6,4 +6,4 @@ The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Team](./team)                                     | Documents related to team structure                          |
+| [Team]([./team](https://github.com/sinafarzan/My_Wiki_Template/wiki/Page_2))                                     | Documents related to team structure                          |
