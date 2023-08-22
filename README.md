@@ -6,4 +6,4 @@ The structure of the repository is as shown below:
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Team](./team_structure)                                     | Documents related to team structure                          |
+| [Team](./team//team_structure)                                     | Documents related to team structure                          |
