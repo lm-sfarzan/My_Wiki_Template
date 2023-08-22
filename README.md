@@ -1,6 +1,6 @@
 # [Project] Wiki Template
 
-This is a wiki template. I believe this is the minimum documentation each project should have.
+This is a wiki template. Here comes the description of the project.
 
 The structure of the repository is as shown below:
 
