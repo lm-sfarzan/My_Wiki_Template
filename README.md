@@ -12,6 +12,6 @@ The structure of the repository is as shown below:
 | [Development Process](https://github.com/sinafarzan/My_Wiki_Template/wiki/Development_Process) | Development Strategy |
 | [Software Architecture](https://github.com/sinafarzan/My_Wiki_Template/wiki/Software_Architecture) | Project Architecture |
 | [Design Docs](https://github.com/sinafarzan/My_Wiki_Template/wiki/Design_Docs) | Documentation of Design |
-| [Code Review Process](https://github.com/sinafarzan/My_Wiki_Template/wiki/code-review-process) | Code Review Process |
+| [Code Review Process](https://github.com/sinafarzan/My_Wiki_Template/wiki/Code_Review_Process) | Code Review Process |
 | [Delivery Metrics](https://github.com/sinafarzan/My_Wiki_Template/wiki/Delivery_Metrics) | Delivery Metrics |
 | [Release and Deploymnet](https://github.com/sinafarzan/My_Wiki_Template/wiki/Release_and_Deployment) | Release and Deploymnet |
