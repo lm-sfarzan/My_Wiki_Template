@@ -11,4 +11,4 @@ The structure of the repository is as shown below:
 | [Onboarding](https://github.com/sinafarzan/My_Wiki_Template/wiki/Onboarding) | Preparation for Project |
 | [Development Process](https://github.com/sinafarzan/My_Wiki_Template/wiki/Development_Process) | Development Strategy |
 | [Software Architecture](https://github.com/sinafarzan/My_Wiki_Template/wiki/Software_Architecture) | Project Architecture |
-| [Software Architecture](https://github.com/sinafarzan/My_Wiki_Template/wiki/Design_Docs) | Documentation of Design |
+| [Design Docs](https://github.com/sinafarzan/My_Wiki_Template/wiki/Design_Docs) | Documentation of Design |
