@@ -6,8 +6,8 @@ The project structure is as shown below:
 
 | Topic                                                 | Description                                                  |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| [Team](./My_Wiki_Template/wiki/team-structure) | Team Members and Their Roles |
-| [Responsibles](./responsibles) | Tasks of Responsbiles |
+| [Team](https://github.com/sinafarzan)/My_Wiki_Template/wiki/team-structure) | Team Members and Their Roles |
+| [Responsibles](https://github.com/sinafarzan/My_Wiki_Template/wiki/)/responsibles) | Tasks of Responsbiles |
 | [Onboarding](https://github.com/sinafarzan/My_Wiki_Template/wiki/onboarding) | Preparation for Project |
 | [Development Process](https://github.com/sinafarzan/My_Wiki_Template/wiki/Development_Process) | Development Strategy |
 | [Software Architecture](https://github.com/sinafarzan/My_Wiki_Template/wiki/Software_Architecture) | Project Architecture |
